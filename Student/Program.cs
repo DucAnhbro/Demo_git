@@ -10,8 +10,9 @@ namespace Student
     {
         static void Main(string[] args)
         {
-            Console.Read();
-            Console.WriteLine("Tên tôi là:" + Console.ReadLine()); ;
+            Console.WriteLine("Tên tôi là:" + Console.ReadLine());
+          //  var tuoi = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Tôi năm nay:"  + Console.ReadLine() +" "+ "tuoi");
             Console.ReadKey();
         }
     }
