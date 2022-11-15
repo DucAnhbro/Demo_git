@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Student\bin\Debug\Student.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Student\bin\Debug\Student.exe
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Student\bin\Debug\Student.pdb
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Student\obj\Debug\Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Student\obj\Debug\Student.exe
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Student\obj\Debug\Student.pdb
