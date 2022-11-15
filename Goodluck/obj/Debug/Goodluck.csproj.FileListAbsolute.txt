@@ -1,0 +1,8 @@
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Goodluck\bin\Debug\Goodluck.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Goodluck\bin\Debug\Goodluck.exe
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Goodluck\bin\Debug\Goodluck.pdb
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Goodluck\obj\Debug\Goodluck.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Goodluck\obj\Debug\Goodluck.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Goodluck\obj\Debug\Goodluck.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Goodluck\obj\Debug\Goodluck.exe
+C:\Users\ADMIN\OneDrive\Desktop\C#\baitaplon\Git_Demo\Goodluck\obj\Debug\Goodluck.pdb
